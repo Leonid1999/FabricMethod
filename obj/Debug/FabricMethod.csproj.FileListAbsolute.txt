@@ -1,0 +1,7 @@
+C:\Users\lenya\source\repos\FabricMethod\FabricMethod\obj\Debug\FabricMethod.csprojAssemblyReference.cache
+C:\Users\lenya\source\repos\FabricMethod\FabricMethod\obj\Debug\FabricMethod.csproj.CoreCompileInputs.cache
+C:\Users\lenya\source\repos\FabricMethod\FabricMethod\bin\Debug\FabricMethod.exe.config
+C:\Users\lenya\source\repos\FabricMethod\FabricMethod\bin\Debug\FabricMethod.exe
+C:\Users\lenya\source\repos\FabricMethod\FabricMethod\bin\Debug\FabricMethod.pdb
+C:\Users\lenya\source\repos\FabricMethod\FabricMethod\obj\Debug\FabricMethod.exe
+C:\Users\lenya\source\repos\FabricMethod\FabricMethod\obj\Debug\FabricMethod.pdb
